@@ -29,7 +29,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 10
 
-  groups:
+  - groups:
     vite:
       patterns:
         - "vite"
