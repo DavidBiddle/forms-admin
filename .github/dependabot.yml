@@ -29,14 +29,14 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 10
 
-groups:
-  vite:
-    patterns:
-      - "vite"
-      - "vite-*"
-      - "vite_*"
-  govuk_frontend:
-    patterns:
-      - "govuk-frontend"
-      - "govuk-components"
-      - "govuk_design_system_formbuilder"
+  groups:
+    vite:
+      patterns:
+        - "vite"
+        - "vite-*"
+        - "vite_*"
+    govuk_frontend:
+      patterns:
+        - "govuk-frontend"
+        - "govuk-components"
+        - "govuk_design_system_formbuilder"
