@@ -22,6 +22,9 @@ updates:
       - dependency-type: "direct"
       - dependency-name: "vite_ruby"
     groups:
+      vite:
+        patterns:
+          - "vite_"
       govuk_frontend:
         patterns:
           - "govuk-components"
